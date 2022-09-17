@@ -1,6 +1,6 @@
 ### MY RESUME
 
-This resume will showcase things that i learn while learning HTML, CSS, and Javascript in my College years. It will server as a purpose on how many things i learn towards my journey to become a Web Developer. I will continue to update this resume as i continue to learn.
+This resume will showcase things that i learn while learning HTML, CSS, and Javascript in my College years. It will served as a purpose on how many things i learn towards my journey to become a Web Developer. I will continue to update this resume as i continue to learn something new.
 
 ### STATUS
 
